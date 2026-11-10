@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Virtual Hardware Keys</string>
+    <string name="accessibility_service_description">Enables the Virtual Power Key to trigger system power menu and lock screen global actions without modifying user data or monitoring input.</string>
+    <string name="device_admin_description">Used exclusively to allow the Virtual Power Key to lock the screen on tap.</string>
+    <string name="overlay_notification_title">Virtual Hardware Keys Active</string>
+    <string name="overlay_notification_text">Floating hardware keys are accessible on screen</string>
+    <string name="notification_channel_name">Floating Keys Service</string>
+    <string name="notification_channel_desc">Persistent notification to keep floating hardware keys active above apps</string>
+</resources>
